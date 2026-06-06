@@ -102,7 +102,7 @@ Roll out the new store layout to stores with similar customer profiles.
 ## Presentation
 📊 Executive Presentation
 
-#### presentation/Quantium Retail Analytics - Hitesh Rathi.pdf
+https://github.com/Hrathi04/quantium-retail-analytics/blob/main/Presentation/Quantium%20Retail%20Analytics%20-%20Hitesh%20Rathi.pdf
 
 ## Skills Demonstrated
 - Customer Analytics
